@@ -1,0 +1,271 @@
+samples read,author of 5th text,medium type,judgement (0-1)
+author1_1,author1_1, same length - email,0
+author1_1,author1_1, same length - email,0.02
+author1_1,author1_1, same length - email,0.04
+author1_1,author1_1, same length - email,0.42
+author1_1,author1_1, same length - email,0.46
+author1_1,author1_1, same length - email,0.57
+author1_1,author1_1, same length - email,0.59
+author1_1,author1_1, same length - email,0.67
+author1_1,author1_1, same length - email,0.69
+author1_1,author1_1, same length - email,0.84
+author1_1,author1_1, same length - email,0.96
+author1_1,author1_1, same length - email,1
+author1_1,author1_im1, same length - email,0
+author1_1,author1_im1, same length - email,0.42
+author1_1,author1_im1, same length - email,0.74
+author1_1,author1_im2, same length - email,0.68
+author1_1,author1_im2, same length - email,0.77
+author1_1,author1_im2, same length - email,0.81
+author1_1,author1_im3, same length - email,0.73
+author1_1,author1_im3, same length - email,0.88
+author1_1,author1_im3," same length - email	",1
+author1_1,author1_im4, same length - email,0.77
+author1_1,author1_im4, same length - email,0.92
+author1_1,author1_im5, same length - email,0.65
+author1_1,author1_im5, same length - email,0.86
+author1_1,author1_im5, same length - email,0.96
+author1_1,author1_im6, same length - email,0.31
+author1_1,author1_im6, same length - email,0.51
+author1_1,author1_im6, same length - email,0.77
+author1_1,author1_im6, same length - email,0.78
+author1_1,author1_im7, same length - email,0.01
+author1_1,author1_im7, same length - email,0.17
+author1_1,author1_im7, same length - email,0.23
+author1_1,author1_im7, same length - email,0.26
+author1_1,author1_im7, same length - email,0.31
+author1_1,author1_im7, same length - email,0.31
+author1_2,author1_2,same length - tweet,0
+author1_2,author1_2,same length - tweet,0.27
+author1_2,author1_2,same length - tweet,0.32
+author1_2,author1_2,same length - tweet,0.36
+author1_2,author1_2,same length - tweet,0.67
+author1_2,author1_2,same length - tweet,0.68
+author1_2,author1_2,same length - tweet,0.97
+author1_2,author1_im11,same length - tweet,0.21
+author1_2,author1_im16,"same length - tweet	",0.72
+author1_2,author1_im18,same length - tweet,0.74
+author1_2,author1_im19,same length - tweet,0
+author1_2,author1_im19,same length - tweet,0.05
+author1_2,author1_im19,same length - tweet,0.1
+author1_2,author1_im29,same length - tweet,0.24
+author1_2,author1_im31,same length - tweet,0
+author1_2,author1_im31,same length - tweet,0.04
+author1_2,author1_im34,same length - tweet,0.09
+author1_2,author1_im38,same length - tweet,0.6
+author1_2,author1_im38,same length - tweet,0.7
+author1_2,author1_im40,same length - tweet,0.03
+author1_2,author1_im40,same length - tweet,0.8
+author1_2,author1_im42,same length - tweet,0.67
+author1_2,author1_im43,same length - tweet,0.67
+author1_2,author1_im8,same length - tweet,0.45
+author1_2,author1_im8,same length - tweet,0.47
+author1_3,author1_3,mixed,0
+author1_3,author1_3,mixed,0.02
+author1_3,author1_3,mixed,0.15
+author1_3,author1_3,mixed,0.29
+author1_3,author1_3,mixed,0.45
+author1_3,author1_3,mixed,0.63
+author1_3,author1_3,mixed,0.64
+author1_3,author1_3,mixed,0.65
+author1_3,author1_3,mixed,0.73
+author1_3,author1_3,mixed,0.76
+author1_3,author1_3,mixed,0.8
+author1_3,author1_3,mixed,0.82
+author1_3,author1_3,mixed,0.95
+author1_3,author1_im20,mixed,0.01
+author1_3,author1_im24,mixed,0.34
+author1_3,author1_im31,mixed,0
+author1_3,author1_im37,mixed,0.27
+author1_3,author1_im39,mixed,0
+author1_3,author1_im41,mixed,0.44
+author1_3,author1_im43,mixed,0.34
+author1_3,author1_im46,mixed,0.91
+author1_3,author1_im48,mixed,0.23
+author1_3,author1_im55,mixed,0
+author1_3,author1_im6,mixed,0.83
+author2_1,author2_1,same length - email,0.55
+author2_1,author2_1,same length - email,0.58
+author2_1,author2_1,same length - email,0.63
+author2_1,author2_1,same length - email,0.68
+author2_1,author2_1,same length - email,0.7
+author2_1,author2_1,same length - email,0.75
+author2_1,author2_1,same length - email,0.77
+author2_1,author2_1,same length - email,0.82
+author2_1,author2_1,same length - email,0.98
+author2_1,author2_1,same length - email,1
+author2_1,author2_im1,same length - email,0
+author2_1,author2_im1,same length - email,0
+author2_1,author2_im1,same length - email,0.11
+author2_1,author2_im1,same length - email,0.24
+author2_1,author2_im1,same length - email,0.48
+author2_1,author2_im1,same length - email,0.49
+author2_1,author2_im1,same length - email,0.5
+author2_1,author2_im1,same length - email,0.87
+author2_1,author2_im2,same length - email,0
+author2_1,author2_im2,same length - email,0
+author2_1,author2_im2,same length - email,0
+author2_1,author2_im2,same length - email,0
+author2_1,author2_im2,same length - email,0
+author2_1,author2_im2,same length - email,0.52
+author2_1,author2_im2,same length - email,0.79
+author2_1,author2_im2,same length - email,0.89
+author2_1,author2_im2,same length - email,1
+author2_2,author2_2,same length - tweet,0
+author2_2,author2_2,same length - tweet,0
+author2_2,author2_2,same length - tweet,0.01
+author2_2,author2_2,same length - tweet,0.04
+author2_2,author2_2,same length - tweet,0.21
+author2_2,author2_2,same length - tweet,0.25
+author2_2,author2_2,same length - tweet,0.27
+author2_2,author2_2,same length - tweet,0.28
+author2_2,author2_2,same length - tweet,0.34
+author2_2,author2_2,same length - tweet,0.42
+author2_2,author2_2,same length - tweet,0.54
+author2_2,author2_2,same length - tweet,0.7
+author2_2,author2_2,same length - tweet,0.73
+author2_2,author2_2,same length - tweet,0.8
+author2_2,author2_2,same length - tweet,0.9
+author2_2,author2_2,same length - tweet,1
+author2_2,author2_2,"same length - tweet	",0.46
+author2_2,author2_2,"same length - tweet	",0.49
+author2_2,author2_2,"same length - tweet	",0.69
+author2_2,author2_2,"same length - tweet	",0.8
+author2_2,author2_im10,same length - tweet,0.84
+author2_2,author2_im11,same length - tweet,0.65
+author2_2,author2_im12,same length - tweet,0.64
+author2_2,author2_im15,same length - tweet,0.56
+author2_2,author2_im18,same length - tweet,0.55
+author2_2,author2_im19,same length - tweet,0
+author2_2,author2_im20,same length - tweet,0.96
+author2_2,author2_im24,"same length - tweet	",0.35
+author2_2,author2_im25,same length - tweet,0.62
+author2_2,author2_im25,same length - tweet,0.8
+author2_2,author2_im5,same length - tweet,1
+author2_2,author2_im6,same length - tweet,0.48
+author2_2,author2_im7,same length - tweet,0.23
+author2_2,author2_im7,same length - tweet,0.79
+author2_2,author2_im7,same length - tweet,0.97
+author2_2,author2_im8,same length - tweet,0.13
+author2_3,author2_3,mixed,0.02
+author2_3,author2_3,mixed,0.05
+author2_3,author2_3,mixed,0.41
+author2_3,author2_3,mixed,0.47
+author2_3,author2_3,mixed,0.52
+author2_3,author2_3,mixed,0.55
+author2_3,author2_3,mixed,0.64
+author2_3,author2_3,mixed,0.65
+author2_3,author2_3,mixed,0.66
+author2_3,author2_3,mixed,0.67
+author2_3,author2_3,mixed,0.7
+author2_3,author2_3,mixed,0.7
+author2_3,author2_3,mixed,0.75
+author2_3,author2_3,mixed,0.77
+author2_3,author2_3,mixed,1
+author2_3,author2_im1,mixed,0.72
+author2_3,author2_im11,mixed,0.73
+author2_3,author2_im17,"mixed	",0.25
+author2_3,author2_im19,mixed,0.79
+author2_3,author2_im23,mixed,0.36
+author2_3,author2_im23,mixed,0.63
+author2_3,author2_im25,mixed,0.27
+author2_3,author2_im25,mixed,0.48
+author2_3,author2_im3,mixed,0.08
+author2_3,author2_im32,mixed,0.81
+author2_3,author2_im33,mixed,0.47
+author2_3,author2_im34,mixed,0.8
+author2_3,author2_im38,mixed,0.5
+author2_3,author2_im39,mixed,0.17
+author2_3,author2_im40,mixed,0.68
+author2_3,author2_im47,mixed,0.21
+author2_3,author2_im5,mixed,0.6
+author2_3,author2_im9,mixed,0.41
+author2_3,author2_im9,mixed,0.7
+author3_1,author3_1,same length - email,0.37
+author3_1,author3_1,same length - email,0.45
+author3_1,author3_1,same length - email,0.49
+author3_1,author3_1,same length - email,0.5
+author3_1,author3_1,same length - email,0.5
+author3_1,author3_1,same length - email,0.51
+author3_1,author3_1,same length - email,0.54
+author3_1,author3_1,same length - email,0.67
+author3_1,author3_1,same length - email,0.74
+author3_1,author3_1,same length - email,0.75
+author3_1,author3_1,same length - email,0.81
+author3_1,author3_1,same length - email,0.82
+author3_1,author3_1,same length - email,0.83
+author3_1,author3_1,same length - email,0.88
+author3_1,author3_1,same length - email,0.88
+author3_1,author3_1,same length - email,0.97
+author3_1,author3_1,same length - email,1
+author3_1,author3_1,same length - email,1
+author3_1,author3_1,"same length - email	",0.51
+author3_1,author3_1,"same length - email	",0.72
+author3_1,author3_im1,same length - email,0
+author3_1,author3_im1,same length - email,0.02
+author3_1,author3_im1,same length - email,0.05
+author3_1,author3_im1,same length - email,0.07
+author3_1,author3_im1,same length - email,0.49
+author3_1,author3_im1,same length - email,0.49
+author3_1,author3_im1,same length - email,1
+author3_1,author3_im1,"same length - email	",0.93
+author3_1,author3_im2,same length - email,0.66
+author3_1,author3_im2,same length - email,0.69
+author3_1,author3_im2,same length - email,0.7
+author3_1,author3_im3,same length - email,0.45
+author3_1,author3_im3,same length - email,0.5
+author3_1,author3_im3,same length - email,0.88
+author3_1,author3_im4,same length - email,0.96
+author3_2,author3_2,same length - text,0
+author3_2,author3_2,same length - text,0.03
+author3_2,author3_2,same length - text,0.04
+author3_2,author3_2,same length - text,0.4
+author3_2,author3_2,same length - text,0.52
+author3_2,author3_2,same length - text,0.58
+author3_2,author3_2,same length - text,0.71
+author3_2,author3_2,"same length - text	",0.4
+author3_2,author3_2,"same length - text	",0.49
+author3_2,author3_2,"same length - text	",0.73
+author3_2,author3_im25,same length - text,0.47
+author3_2,author3_im25,same length - text,0.68
+author3_2,author3_im25,"same length - text	",0.1
+author3_2,author3_im27,same length - text,0
+author3_2,author3_im27,same length - text,0.48
+author3_2,author3_im27,same length - text,0.51
+author3_2,author3_im31,same length - text,0.49
+author3_2,author3_im33,same length - text,0.53
+author3_2,author3_im34,same length - text,0.55
+author3_2,author3_im36,same length - text,0.99
+author3_2,author3_im37,same length - text,0.77
+author3_2,author3_im41,same length - text,0.48
+author3_2,author3_im41,same length - text,0.72
+author3_2,author3_im42,same length - text,0.6
+author3_2,author3_im46,same length - text,0.36
+author3_2,author3_im47,same length - text,0
+author3_3,author3_3,mixed,0.47
+author3_3,author3_3,mixed,0.48
+author3_3,author3_3,mixed,0.55
+author3_3,author3_3,mixed,0.63
+author3_3,author3_3,mixed,0.72
+author3_3,author3_3,mixed,0.72
+author3_3,author3_3,mixed,0.74
+author3_3,author3_3,mixed,0.84
+author3_3,author3_3,mixed,0.98
+author3_3,author3_3,mixed,0.98
+author3_3,author3_3,mixed,1
+author3_3,author3_3,mixed,1
+author3_3,author3_3,mixed,1
+author3_3,author3_im10,mixed,0.73
+author3_3,author3_im12,mixed,0.47
+author3_3,author3_im13,mixed,0.07
+author3_3,author3_im13,mixed,0.28
+author3_3,author3_im16,mixed,0.72
+author3_3,author3_im2,mixed,0.56
+author3_3,author3_im21,mixed,0.82
+author3_3,author3_im37,mixed,0.24
+author3_3,author3_im38,mixed,0.62
+author3_3,author3_im4,mixed,0
+author3_3,author3_im40,mixed,0.24
+author3_3,author3_im41,mixed,1
+author3_3,author3_im46,mixed,0
+author3_3,author3_im6,mixed,0.65
